@@ -7,6 +7,8 @@ pip install tk
 
 ## Pantallazos del software
 
+Ejecutar el archivo demo.py
+
 ![image](https://github.com/user-attachments/assets/6a72ff16-c262-4324-9d01-9bd5577e782e)
 
 
