@@ -1,9 +1,9 @@
 # Software---Registro-Contable
 ## Requisitos
 Instalar tkinder
-‘‘‘
+```
 pip install tk
-‘‘‘
+```
 
 ## Pantallazos del software
 
